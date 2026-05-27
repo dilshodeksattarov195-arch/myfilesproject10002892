@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheuarse",
+        "uuid": 19197096,
+        "checksum": "63t2yb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
